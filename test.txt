@@ -1,6 +1,6 @@
 <ul>
 	<li>Erlang</li>
 	<li>Python</li>
-	<li>Objective</li>
-	<li>javascript</li>
+	<li>Objective C</li>
+	<li>Ruby</li>
 </ul>
